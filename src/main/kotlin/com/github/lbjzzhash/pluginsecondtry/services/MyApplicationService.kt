@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lbjzzhash.pluginsecondtry.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lbjzzhash.pluginsecondtry.MyBundle
 
 class MyApplicationService {
 
